@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Jyothsna Pasupuleti
 
-I'm a passionate **DevOps Engineer** and Computer Science graduate student at the **University of Texas at Arlington**. With hands-on experience in cloud infrastructure, automation, and full-stack development, I thrive on building scalable, efficient, and secure software solutions.
+I'm a passionate **Data Analyst** and Computer Science graduate student at the **University of Texas at Arlington**. With hands-on experience in cloud infrastructure, automation, and full-stack development, I thrive on building scalable, efficient, and secure software solutions.
 
 ---
 
